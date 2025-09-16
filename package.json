@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "next": "^15.5.3",
+    "react-dom": "^19.1.1"
+  },
+  "name": "estudos-react-e-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andromeda067/Estudos-react-e-next.git"
+  },
+  "author": "MIT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andromeda067/Estudos-react-e-next/issues"
+  },
+  "homepage": "https://github.com/Andromeda067/Estudos-react-e-next#readme"
+}

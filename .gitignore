@@ -1,0 +1,22 @@
+# --- D E P E N DD E N C I E S ---
+/node_modules
+
+# --- B U I L D ---
+/.next
+/out
+
+# --- A R C H I V E S L O G ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# --- OPERATING SYSTEM ---
+.DS_Store
+
+
+# --- AMBIENTE ---
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
