@@ -12,3 +12,7 @@
 ### 8- $ npm instal next
 ### 9- $ npm install react 
 ### 9- $ npm install react-dom
+
+
+
+#npx create-next-app@latest
